@@ -1,4 +1,4 @@
-FROM rust:1.76-slim-bookworm as rust
+FROM rust:1.79-slim-bookworm as rust
 
 FROM bitsandelectrons/arm-none-eabi
 
